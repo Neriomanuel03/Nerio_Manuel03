@@ -1,2 +1,2 @@
-#$#Sup Nério Manuel is my name 
+#Sup Nério Manuel is my name 
 
